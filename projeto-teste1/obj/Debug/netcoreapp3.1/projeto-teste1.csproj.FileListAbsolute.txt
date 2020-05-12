@@ -1,0 +1,11 @@
+C:\Users\wesle\Área de Trabalho\projeto-teste1\projeto-teste1\bin\Debug\netcoreapp3.1\projeto-teste1.exe
+C:\Users\wesle\Área de Trabalho\projeto-teste1\projeto-teste1\bin\Debug\netcoreapp3.1\projeto-teste1.deps.json
+C:\Users\wesle\Área de Trabalho\projeto-teste1\projeto-teste1\bin\Debug\netcoreapp3.1\projeto-teste1.runtimeconfig.json
+C:\Users\wesle\Área de Trabalho\projeto-teste1\projeto-teste1\bin\Debug\netcoreapp3.1\projeto-teste1.runtimeconfig.dev.json
+C:\Users\wesle\Área de Trabalho\projeto-teste1\projeto-teste1\bin\Debug\netcoreapp3.1\projeto-teste1.dll
+C:\Users\wesle\Área de Trabalho\projeto-teste1\projeto-teste1\bin\Debug\netcoreapp3.1\projeto-teste1.pdb
+C:\Users\wesle\Área de Trabalho\projeto-teste1\projeto-teste1\obj\Debug\netcoreapp3.1\projeto-teste1.csprojAssemblyReference.cache
+C:\Users\wesle\Área de Trabalho\projeto-teste1\projeto-teste1\obj\Debug\netcoreapp3.1\projeto-teste1.AssemblyInfoInputs.cache
+C:\Users\wesle\Área de Trabalho\projeto-teste1\projeto-teste1\obj\Debug\netcoreapp3.1\projeto-teste1.AssemblyInfo.cs
+C:\Users\wesle\Área de Trabalho\projeto-teste1\projeto-teste1\obj\Debug\netcoreapp3.1\projeto-teste1.dll
+C:\Users\wesle\Área de Trabalho\projeto-teste1\projeto-teste1\obj\Debug\netcoreapp3.1\projeto-teste1.pdb
